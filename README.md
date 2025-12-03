@@ -1,4 +1,4 @@
-#Data Warehouse and analytics Project
+# Data Warehouse and analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing  and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights best practices in data engineering and analytics.
@@ -39,4 +39,4 @@ This Project is licensed under the [MIT License](License). You are free to use, 
 
 ## About Me
 
-Hi, I'm **Kenneth Ssempala Nsubuga**. I have been interested in coding and creating systems for the longest. I'm finally on a learning journey taught by **Data with Baara**, and I can't wait to share my learning experience with the world.
+Hi, I'm **Kenneth Ssempala Nsubuga**. I have been interested in coding and creating systems for the longest. I'm finally on a learning journey **SQL Full Course**, taught by **Data with Baara**, and I can't wait to share my learning experience with the world.
