@@ -22,7 +22,7 @@ This Project involves:
 ---
 ## 🔗Attributions 🙏
 A big Thank you to 'Data with Baara'. I'm Very grateful to have encountered this course on YouTube !!Absolutely FREE!!.
-For anyone else out there who is serious about changing their career to enter the world of coding but does not know where to begin, please give yourself sometime and have a look at this: [SQL Full Course for Beginners (30 Hours) – From Zero to Hero]
+For anyone else out there who is serious about changing their career to enter the world of coding but does not know where to begin, please give yourself sometime and have a look at this: [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus)
 
 ---
 
@@ -60,14 +60,11 @@ This Project is licensed under the [MIT License](License). You are free to use, 
 
 ## About Me
 
-Hi, I'm **Kenneth Ssempala Nsubuga**. My background is Furniture and product design. Experienced Furniture maker and Joinery CAD Technician. Beginning of **2022**, I started working with software like **Fusion 360**, **AutoCAD**, **[F4®Integrate - Felder Group]**, **[Cabinet Vision & AlphaCAM]**, **Adobe Illustrator**. My General job requirements were, to prepare technical design and machining data (including CAM programming and CNC ready machining programs), drawings for CNC machining manufacture and manual Assembly.
+Hi, I'm **Kenneth Ssempala Nsubuga**. My background is Furniture and product design. Experienced Furniture maker and Joinery CAD Technician. Beginning of **2022**, I started working with software like **Fusion 360**, **AutoCAD**, **[F4®Integrate - Felder Group](https://www.felder-group.com/en-gb/products/f4solutions-software-c596305/software-f4integrate-p596313)**, **[Cabinet Vision & AlphaCAM](https://hexagon.com/products/product-groups/computer-aided-manufacturing-cad-cam-software)**, **Adobe Illustrator**. My General job requirements were, to prepare technical design and machining data (including CAM programming and CNC ready machining programs), drawings for CNC machining manufacture and manual Assembly.
 
 Over the years I've found that the various softwares used through the design tp manufacture process are either cumbersome or expensive. 
 
 As well as this being a journey to grow my proficiency in the 'coding' it is also the 'vehicular-academy' guiding me closer to devising solutions to problems ive encountered daily as a professional.
-
-I have been interested in coding and creating systems for the longest. I'm finally on a learning journey **[SQL Full Course for Beginners (30 Hours) – From Zero to Hero]**, by **Data with Baara**, and I can't wait to share my learning experience with the world.
-
 
 
 
@@ -75,4 +72,4 @@ I have been interested in coding and creating systems for the longest. I'm final
 
 [F4®Integrate - Felder Group]:(https://www.felder-group.com/en-gb/products/f4solutions-software-c596305/software-f4integrate-p596313)
 
-[SQL Full Course for Beginners (30 Hours) – From Zero to Hero]: (https://www.youtube.com/watch?v=SSKVgrwhzus)
+[SQL Full Course for Beginners (30 Hours) – From Zero to Hero]:(https://www.youtube.com/watch?v=SSKVgrwhzus)
