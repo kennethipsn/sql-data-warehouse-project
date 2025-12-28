@@ -54,10 +54,31 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 ## 🏗️Data Architecture
-![Data Architecture](./docs/Data Architecture.drawio.png)
+The Data build for this project follows the Medallion Architecture of **Bronze**, **Silver** & **Gold**
 
-![Data Architecture](./docs/Data Architecture.drawio.png)
+![Data Architecture](https://github.com/kennethipsn/sql-data-warehouse-project/blob/main/docs/Data%20Architecture.drawio.png)
 
+1. **Bronze Layer:** Store raw data as-is from the source systems. Data is the ingested from the CSV Files into the SQL Server Database.
+2. **Silver Layer:** This Layer entails Data Cleansing, Standardisations and Normalisation processes to prepare data for analysis.
+3. **Gold Layer:** This Layer contains Business-ready data modelled into a **star schema** required for reporting and analytics.
+
+---
+## 🗄️Repository Structure
+```
+data-warehouse-project/
+|
+|--- datasets/
+|
+|--- docs/
+|    |--- data_architecture.draw.io
+|    |--- data_flow_diagram.draw.io
+|    |--- data_integration.draw.io
+|    |--- data_model(starSchema).draw.io
+|    |--- data_catalog.md
+|
+|--- Scripts/
+  
+```
 ---
 
 ## License
