@@ -56,6 +56,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## 🏗️Data Architecture
 ![Data Architecture](./docs/Data Architecture.drawio.png)
 
+![Data Architecture](./docs/Data Architecture.drawio.png)
+
 ---
 
 ## License
